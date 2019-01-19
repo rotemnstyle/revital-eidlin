@@ -852,11 +852,11 @@
 	}
 
 	.logo img {
-    padding: 0.2em;
-    position: relative;
-    left: 24%;
-    bottom: 0.2em;
-}
+	    padding: 0.2em;
+	    position: relative;
+	    left: 24%;
+	    bottom: 0.2em;
+	}
 	
 	.hero-image img {
 		width: 38%;
@@ -864,10 +864,10 @@
 	}	
 
 	.light-image img {
-    width: 40%;
-    height: 40%;
-    border-radius: 90%;
-    opacity: 0.8;
+	    width: 40%;
+	    height: 40%;
+	    border-radius: 90%;
+	    opacity: 0.8;
 }
 
 	.light-image p {
@@ -948,15 +948,15 @@
 	}
 
 	#footer .inner .copyright h3 {
-    font-size: 2rem;
-    margin-bottom: 10px;
+	    font-size: 2rem;
+	    margin-bottom: 10px;
 	}
 	
 	#footer #copyright p {
 		margin: -18px 1px;
 		line-height: 2;
 		padding: 10px 0;
-		font-size: 12px;
+		font-size: 11px;
 	}
 
 		
