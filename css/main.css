@@ -268,15 +268,15 @@
 
 	.content >.image-revital-header img {
 		width: 30%;
-    height: 30%;
+                height: 30%;
 		position: relative;
 		top: 1.6em;
 	}
 			
 	.image-fit-contact img, #preview .inner .image-fit-contact > h2 {
 		display: flex;
-    justify-content: center;
-    align-items: center;
+               justify-content: center;
+                align-items: center;
 		width: 45%;
 		height: 45%;
 		position: relative;
@@ -702,7 +702,7 @@
 
 			#header.hide .inner, #header.preview .inner {
 				height: 8em;
-        width: 8em;
+                                width: 8em;
 				padding: 4em;
 			}
 			
@@ -714,7 +714,7 @@
 				width: 50em;
 				height: 50em;
 				margin-top: 13px;
-		}
+		         }
 
 			#header .inner .content h1 {
 				font-size: 4rem;
@@ -724,13 +724,13 @@
 			#header .inner .content h2 {
 			  font-size: 1.8rem;
 				margin: -0.4 0 1em 0;
-		}
+		         }
 
 			#header .inner .button {
 				padding-left: 2em;
 				padding-right: 6em;
 				width: 33%;
-        height: 33%;
+                                height: 33%;
 			}
 
 			button.big, .button.big {
@@ -868,7 +868,7 @@
 	    height: 40%;
 	    border-radius: 90%;
 	    opacity: 0.8;
-}
+         }
 
 	.light-image p {
 		font-size: 18px;
@@ -956,7 +956,7 @@
 		margin: -18px 1px;
 		line-height: 2;
 		padding: 10px 0;
-		font-size: 11px;
+		font-size: 10px;
 	}
 
 		
